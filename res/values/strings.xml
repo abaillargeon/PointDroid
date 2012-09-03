@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Waiting for fix....</string>
+    <string name="app_name">GpsFinder</string>
+    <string name="set_location">Set Anchor</string>
+    <string name="remove_location">Reset</string>
+
+</resources>
